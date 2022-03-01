@@ -1,0 +1,524 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rarest ballad that ever was seen, of the blind beggars daughter of Bednall-green.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1664?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05086</idno>
+            <idno type="STC">Wing R280C</idno>
+            <idno type="STC">ESTC R182364</idno>
+            <idno type="EEBO-CITATION">47012605</idno>
+            <idno type="OCLC">ocm 47012605</idno>
+            <idno type="VID">174573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174573)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rarest ballad that ever was seen, of the blind beggars daughter of Bednall-green.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and W. Gilbertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1658 and 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 1 illustration.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174573:1"/>
+            <head>The rareſt Ballad that ever was ſeen, Of the Blind beggers daughter of Bednall-green</head>
+            <div n="1" type="part">
+               <l>IT was a blind begger that long loſt his ſight,</l>
+               <l>He had a fair daughter moſt pleaſant and brght</l>
+               <l>And many a galant brave Suitor had ſhe,</l>
+               <l>For none was ſo comely as pretty Beſſée,</l>
+               <l>And though ſhe was of favour moſt fair,</l>
+               <l>Yet ſeeind the was but a b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gger his heir,</l>
+               <l>Of ancient houſe kéepers diſpiſed was ſhe,</l>
+               <l>Whoſe sons came as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uitors to pretty Beſſée.</l>
+               <l>Wherefore in great ſorrow fair Beſſée did ſay,</l>
+               <l>Good Father and mother let me go away,</l>
+               <l>To ſeek out my fortune where ever it be,</l>
+               <l>This ſuit then they granted to pretty Beſſée.</l>
+               <l>Then Beſſée that was of beauty moſt bright,</l>
+               <l>They clad in gray Ruſſet, and late in the night,</l>
+               <l>From Father and mother alone parted ſhee,</l>
+               <l>Who ſighed and ſobbed for pretty Beſſée.</l>
+               <l>She went till ſhe came to <hi>Straford</hi> at <hi>Bow,</hi>
+               </l>
+               <l>Then knew ſhe not whether nor which way to go,</l>
+               <l>VVith tears ſhe lamented her hard Deſtiny.</l>
+               <l>So ſad and ſo heavy was pretty Beſſee;</l>
+               <l>She kept on her journey untill it was day</l>
+               <l>and went unto Rumford along the high way,</l>
+               <l>And at the <hi>Queens arms</hi> entertained was ſhe,</l>
+               <l>So fair and well favour'd was pretty Beſſee.</l>
+               <l>She had not been there one month to an end,</l>
+               <l>But Maſter and Miſtris and all was her friend.</l>
+               <l>And every brave Galla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t that once did her ſée,</l>
+               <l>Was ſtraightway in love with pretty Beſſee.</l>
+               <l>Great gifts they did ſend her of ſilver and gold,</l>
+               <l>And in their ſongs daily her Love they extold.</l>
+               <l>Her beauty was blazed in every degrée,</l>
+               <l>So fair and ſo comely was pretty Beſſée.</l>
+               <l>The youngmen of <hi>Rumford</hi> in her had their ioy</l>
+               <l>She ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew'd her ſelf courteous and never too coy<g ref="char:punc">▪</g>
+               </l>
+               <l>And at their comman<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment ſtill would ſhe be,</l>
+               <l>So fair and ſo comely was prett Beſſée.</l>
+               <l>Four Suitors at once unto her did go,</l>
+               <l>They craved <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er favour but ſtill ſhe ſaid no.</l>
+               <l>I would not wiſh Gentlemen to marry with me,</l>
+               <l>Yet ever they honoured pretty Beſſée</l>
+               <l>The one of them was a gallant young Knight,</l>
+               <l>And he came to her diſguiſed in the night.</l>
+               <l>The ſecond a Gentleman of good degree.</l>
+               <l>Who wood and ſued for pretty Beſſée.</l>
+               <l>A merchant of Lon. whoſe wealth was not ſmall</l>
+               <l>Was then the third Suitor and proper withall</l>
+               <l>Her Maſters own Son the fourth man muſt be,</l>
+               <l>Who ſwore he would dye for pretty Beſſee</l>
+               <l>And if thou wilt marry with me qd. the Knight.</l>
+               <l>Ile make thee a Lady with ioy and delight</l>
+               <l>My heart is inthralled by thy beauty.</l>
+               <l>Then grant me thy favour my pretty Beſſée.</l>
+               <l>The gentleman ſaid come marry with me,</l>
+               <l>In ſilk and in velvet my Beſſée ſhall be.</l>
+               <l>My heart lives diſtreſſed O hear me quoth he</l>
+               <l>And grant me thy love my pretty Beſſée.</l>
+               <l>Let me be thy husband the Merchant did ſay</l>
+               <l>thou ſhalt live in London moſt gallnt and gay</l>
+               <l>My Ship ſhall bring home rich Iewels for thee</l>
+               <l>And I will for ever love pretty Beſſée</l>
+               <l>then Beſſée ſhe ſighed, and thus ſhe did ſay</l>
+               <l>My Father and Mother I mean to obey</l>
+               <l>Firſt get their good will and be faithfull to me</l>
+               <l>And you ſhall enjoy your pretty Beſſee</l>
+               <l>To every one this anſwer ſhe made</l>
+               <l>Wherefore unto her they joyfully ſaid,</l>
+               <l>this thing to fulfill we all do agree,</l>
+               <l>and where dwells thy father my pretty Beſſee,</l>
+               <l>My Father quoth ſhe is ſoon to be ſeen,</l>
+               <l>The ſilly blind begger of <hi>Bednal-green,</hi>
+               </l>
+               <l>That daily ſits begging for charity,</l>
+               <l>He is the good Father of pretty Beſſée.</l>
+               <l>His marks and his tokens are known full well,</l>
+               <l>He alwayes is led with a dog and a bel:</l>
+               <l>A ſilly o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d mon God knoweth is he,</l>
+               <l>Yet he is the Father of pretty Beſſee.</l>
+               <l>Nay then quoth the merchant thou art not for me</l>
+               <l>Nor quoth the Inholder my wife ſhalt thou be,</l>
+               <l>I loath quoth the Gentleman a beggers degree,</l>
+               <l>A herefore fare you well my pretty Beſſee.</l>
+               <l>Why then quoth the Knight hap better or worſe,</l>
+               <l>I weigh not true love by the weight of the purſe.</l>
+               <l>and beauty is beauty in every degree,</l>
+               <l>The welcome to me my pretty Beſſee,</l>
+               <l>VVith thee to thy Father forthwith will I go,</l>
+               <l>Nay ſoft quoth his Kinſman it muſt nor be ſo:</l>
+               <l>A beggers daughter no Lady ſhall be,</l>
+               <l>Then take thy adieu of pretty Beſſee.</l>
+               <l>But ſoon after this by break of the day,</l>
+               <l>The knight had from <hi>Rumford</hi> ſtole Beſſee away</l>
+               <l>The young men of <hi>Rumford</hi> ſo ſick as may be,</l>
+               <l>Rode after to fetch again pretty Beſſée</l>
+               <l>As ſwift as the wind to ride they were ſeen,</l>
+               <l>Untill they came neer unto <hi>Bednal-green.</hi>
+               </l>
+               <l>And as the Knight lighted moſt coueteouſty,</l>
+               <l>They ſought againſt him for pretty Beſſee.</l>
+               <l>But Reſcue came preſently over the plain,</l>
+               <l>Or elſe the Knight for his Love there had bin ſlain</l>
+               <l>The fray being ended then ſtraight he did ſee,</l>
+               <l>His Kinſman came calling for pretty Beſſee</l>
+               <l>Then ſpeak the blind begger although I be poor,</l>
+               <l>Raile not againſt my child at mine own doore</l>
+               <l>Though ſhe be not deckt with Velvet and Pearls</l>
+               <l>Yet will I drop angels with thee for my Girle</l>
+               <l>and then if my Gold wilt better her birth,</l>
+               <l>And equal thy gold you lay on the earth,</l>
+               <l>Then neither raile nor grudge yon to ſee,</l>
+               <l>The blind beggers daughter a Lady to be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>But firſt I will hear and have it well known;</l>
+               <l>The gold that you drop ſhall be all your own.</l>
+               <l>With that they replyed contented we be</l>
+               <l>Then here's quoth the begger for pretty Beſſee</l>
+               <l>VVith that an angel be caſt on the ground,</l>
+               <l>and dropped in angels full thrée thouſand pound</l>
+               <l>and often times it proved moſt plain,</l>
+               <l>For the Gentlemans one the begger dropt twain</l>
+               <l>So as the place whereas they did ſit,</l>
+               <l>VVith gold was covered every whit,</l>
+               <l>the Gentleman having dropt all his ſtore.</l>
+               <l>Said Begger hold for I have no more:</l>
+               <l>Thou haſt fulfilied thy promiſe arright,</l>
+               <l>then marry my Girle quoth he to this Knight:</l>
+               <l>and here quoth he Ile throw you down,</l>
+               <l>A hundred pound more to buy her a Gown:</l>
+               <l>the gentlemen all that this treaſure had ſeen,</l>
+               <l>Admired the begger of Bednall green</l>
+               <l>And thoſe that were her ſuitors before.</l>
+               <l>their fleſh for very anger they tore:</l>
+               <l>thus was their beſſée matcht to the nKight:</l>
+               <l>and made a Lady in others deſpight.</l>
+               <l>A fairer Lady was never ſeen</l>
+               <l>then the beggers daughter of Bednal green</l>
+               <l>But of her ſumptuous marriage and feaſt</l>
+               <l>and what brave Lords &amp; Knights thither was preſt</l>
+               <l>the Second part ſhall ſet forth to your ſight</l>
+               <l>With marvellous pleaſure and wicked delight:</l>
+            </div>
+            <div n="2" type="part">
+               <p>
+                  <figure>
+                     <figDesc>depiction of the blind beggar of Bednal Green</figDesc>
+                  </figure>
+               </p>
+               <l>Of a blind beggers daughter moſt fair &amp; bright</l>
+               <l>That late was betrothed unto a young knight</l>
+               <l>All the diſcourſes thereof you may ſée.</l>
+               <l>But now comes the wedding of pretty beſſée.</l>
+               <l>Within a gallant Palace moſt brave,</l>
+               <l>Adorned with all the coſt they could have,</l>
+               <l>This wedding was kept moſt ſumptuouſly.</l>
+               <l>And all for the love of pretty Beſſée.</l>
+               <l>All kind of dainties and delicates ſwéet,</l>
+               <l>Was brought to their banquet as was thought méet,</l>
+               <l>Partridge, Plover and Veniſon moſt frée.</l>
+               <l>Againſt the brave wedding of pretty Beſſée.</l>
+               <l>This weding through <hi>England</hi> was ſpread by report</l>
+               <l>So that a great number there ſo did reſort,</l>
+               <l>Of Nobles and Gentiles of every degree,</l>
+               <l>And all for the fame of pretty Beſſee.</l>
+               <l>To Church then went this gallant young Knight,</l>
+               <l>His bride followed after like a Lady moſt bright,</l>
+               <l>With Troops of Ladies the like was nere ſeen,</l>
+               <l>As went with ſweet <hi>Beſſee</hi> of <hi>Bednal-green.</hi>
+               </l>
+               <l>This wedding being ſolemnizal <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en,</l>
+               <l>With muſick perform<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by skilfull men.</l>
+               <l>The Nobles and Gentiles ſate down at that Tide,</l>
+               <l>Each one beholding the beautifull bride.</l>
+               <l>But after this ſumptuous d<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was done.</l>
+               <l>To talk and to reaſons a number begun.</l>
+               <l>Of the b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind beggers daughter moſt bright,</l>
+               <l>and what with his daughter he gave to the Knight.</l>
+               <l>Then ſpeak the Nobles much marvell have we.</l>
+               <l>The tolly blind begger we cannot here ſee.</l>
+               <l>My Lords quoth the bride my father<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſo baſe,</l>
+               <l>He's loath with his preſence theſe ſtates to diſgrace,</l>
+               <l>The praiſe of a woman in queſtion to brin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>Before her own face here were a flattering thing.</l>
+               <l>We think thy fathers baſeneſſe quoth they,</l>
+               <l>Might by thy beauty be clean put away.</l>
+               <l>They had no ſooner thoſe picaſant words ſpoke,</l>
+               <l>But in comes the begger in a ſilken Cloke.</l>
+               <l>A Velvet cap and a feather had he,</l>
+               <l>and now a muſitian for ſooth he would be.</l>
+               <l>and being led in from catching of harm,</l>
+               <l>He had a dainty Lute under his arm,</l>
+               <l>Said pleaſe you hear any muſick of me,</l>
+               <l>a ſong I will ſing you of pretty Beſſee.</l>
+               <l>With that his Lute he twanged ſtraightway,</l>
+               <l>and thereon began moſt ſweetly to play.</l>
+               <l>and after a Leſſon was plaid two <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o three,</l>
+               <l>he ſtrain'd out this ſong moſt delicately.</l>
+               <l>A Beggers daughter did dwell on a gréen</l>
+               <l>Who for her beauty may well be a Quéen</l>
+               <l>A blyth boony laſs and dainty was ſhe,</l>
+               <l>And many a one called her pretty <hi>Beſſee,</hi>
+               </l>
+               <l>Her Father had no goods nor no lands,</l>
+               <l>But beg'd for a penny all day with his hands</l>
+               <l>and yet for her marriage he gave thoſand thrée</l>
+               <l>Yet ſtill hath ſome what for pretty <hi>Beſſee.</hi>
+               </l>
+               <l>And if any one her birth do diſdain</l>
+               <l>Her Father is ready with might and with main</l>
+               <l>To prove ſhe is come of a noble degre</l>
+               <l>Therefore let none flout at my prety Beſſée,</l>
+               <l>With that the Lords and company round</l>
+               <l>With hearty laughter was ready to ſoun,</l>
+               <l>At laſt ſaid the Lords full well we may ſée</l>
+               <l>The bride and the beggers beholding to thee.</l>
+               <l>With that the bride all bluſhing did riſe,</l>
+               <l>With the ſalt water within her fair eyes</l>
+               <l>Pardon my Father grave Nobles quoth ſhe,</l>
+               <l>That through blind affection thus doteth on me.</l>
+               <l>If this be thy Father the Nobles did ſay,</l>
+               <l>Well may he be proud of this happy day,</l>
+               <l>Yet by his countenance well we may ſée,</l>
+               <l>His birth with his fortnne did never agrée.</l>
+               <l>And therefore blind begger we pray thee bewray</l>
+               <l>And look that the truth to us thou do ſay,</l>
+               <l>Thy birth and thy parentage what it might be</l>
+               <l>Euen for the loue thou beareſt to pretty <hi>B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſee.</hi>
+               </l>
+               <l>Then giue me leaue you Gentiles each one,</l>
+               <l>A Song more to ſing and then Ile be gone,</l>
+               <l>And if that I do not win good report,</l>
+               <l>then do not giue me a groat for my ſport</l>
+               <l>
+                  <hi>WHen fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt our King his fame did advance.</hi>
+               </l>
+               <l>
+                  <hi>&amp; fought for his title delicate France</hi>
+               </l>
+               <l>
+                  <hi>In many places great perils paſt he,</hi>
+               </l>
+               <l>
+                  <hi>Buth th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n was not born my pretty beſſee</hi>
+               </l>
+               <l>
+                  <hi>And in thoſe wars went over to fight,</hi>
+               </l>
+               <l>
+                  <hi>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny a brave Duke a Lord and a Knight.</hi>
+               </l>
+               <l>
+                  <hi>&amp; with <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem yong Monford of courage ſo free,</hi>
+               </l>
+               <l>
+                  <hi>but then was not born my pretty beſſee,</hi>
+               </l>
+               <l>
+                  <hi>&amp; there did yong Monford by a blow o'th face</hi>
+               </l>
+               <l>
+                  <hi>Looſe both his eyes in a very ſhort ſpace,</hi>
+               </l>
+               <l>
+                  <hi>His life had alſo been gone with his ſight,</hi>
+               </l>
+               <l>
+                  <hi>Had not a vong woman come fo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th in the night</hi>
+               </l>
+               <l>
+                  <hi>Among the ſlain men her fancy did move,</hi>
+               </l>
+               <l>
+                  <hi>To ſearch and to ſeek for her own true love</hi>
+               </l>
+               <l>
+                  <hi>Who ſeeing yong Montford there gaſping to ly</hi>
+               </l>
+               <l>
+                  <hi>ſhe ſaved his life through her charity.</hi>
+               </l>
+               <l>
+                  <hi>And then all our victuals in beggers attire,</hi>
+               </l>
+               <l>
+                  <hi>At hands of go<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d people we then did require,</hi>
+               </l>
+               <l>
+                  <hi>At laſt into England as now it is ſeen,</hi>
+               </l>
+               <l>
+                  <hi>We came and remained at bednal green.</hi>
+               </l>
+               <l>
+                  <hi>And thus we have lived in fortunes deſpight</hi>
+               </l>
+               <l>
+                  <hi>Though poor yet conented with humble delite<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>And in my old years a comfort to be</hi>
+               </l>
+               <l>
+                  <hi>God ſent me a daughter cal'd pretty beſſee,</hi>
+               </l>
+               <l>
+                  <hi>And thus you nobles my ſong I do end,</hi>
+               </l>
+               <l>
+                  <hi>Hoping the ſame no man doth offend,</hi>
+               </l>
+               <l>
+                  <hi>Full forty long winters thus have I been.</hi>
+               </l>
+               <l>
+                  <hi>A ſilly blind begger of bednal green</hi>
+               </l>
+               <l>
+                  <hi>Now when the company every one</hi>
+               </l>
+               <l>
+                  <hi>Did hear the ſtrange tale in ſong he had ſhown</hi>
+               </l>
+               <l>
+                  <hi>They were all amazed as well they migh be,</hi>
+               </l>
+               <l>
+                  <hi>Both at the blind begger and pretty Beſſee.</hi>
+               </l>
+               <l>
+                  <hi>With that the fair bride they then did imbrace</hi>
+               </l>
+               <l>
+                  <hi>Saying, you are come of an honourable Race,</hi>
+               </l>
+               <l>
+                  <hi>Thy Father likewiſe of a high degree.</hi>
+               </l>
+               <l>
+                  <hi>And thou as worthy a Lady to be,</hi>
+               </l>
+               <l>
+                  <hi>Thus was the feaſt ended with joy and delight.</hi>
+               </l>
+               <l>
+                  <hi>A happy Bridegroom was made the young Knight</hi>
+               </l>
+               <l>
+                  <hi>Who lived in joy and felicity.</hi>
+               </l>
+               <l>
+                  <hi>With his fair Lady pretty Beſſee.</hi>
+               </l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. <hi>Coles,.</hi> T <hi>Vere,</hi> and W. <hi>Gilbertſon.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
